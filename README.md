@@ -1,7 +1,5 @@
 ﻿# Spring-security-remember-me
 
-Tags: Spring
-
 ---
 
 ## Simple Hash-Based Token Approach
